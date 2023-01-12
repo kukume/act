@@ -1,4 +1,4 @@
-package me.kuku;
+package me.kuku.act;
 
 import act.Act;
 import act.inject.DefaultValue;

@@ -13,11 +13,11 @@
   <parent>
     <groupId>org.actframework</groupId>
     <artifactId>act-starter-parent</artifactId>
-    <version>1.9.1.0</version>
+    <version>1.9.2.0</version>
   </parent>
 
   <properties>
-    <app.entry>me.kuku.AppEntry</app.entry>
+    <app.entry>me.kuku.act.AppEntry</app.entry>
 
     <!-- tune your JVM arguments here
     <vmargs.heap.init>256M</vmargs.heap.init>
